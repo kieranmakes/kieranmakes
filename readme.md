@@ -1,6 +1,6 @@
 Hey, welcome to my profile &nbsp; 👋🏽
 
-Computer Science Undergraduate at [Cardiff University](https://www.cardiff.ac.uk/). 
+Computer Science Undergraduate @ [Cardiff University](https://www.cardiff.ac.uk/). 
 
 ---
 <p align = "center">
