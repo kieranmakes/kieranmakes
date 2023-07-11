@@ -1,6 +1,6 @@
 Hey, welcome to my profile &nbsp; 👋🏽
 
-Computer Science Graduate of [Cardiff University](https://www.cardiff.ac.uk/). 
+Computer Science Graduate - [Cardiff University](https://www.cardiff.ac.uk/). 
 
 ---
 <p align = "center">
